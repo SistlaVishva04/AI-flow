@@ -7,3 +7,5 @@ pymupdf
 python-multipart
 chromadb 
 sentence-transformers
+psycopg2-binary
+supabase
